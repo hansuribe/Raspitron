@@ -1,1 +1,0 @@
-import{S as e,i as o,s as r}from"../../../../chunks/index-ad65ff70.js";function a({}){return{status:404,error:new Error("Not found")}}class u extends e{constructor(t){super(),o(this,t,null,null,r,{})}}export{u as default,a as load};
